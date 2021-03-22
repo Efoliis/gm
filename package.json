@@ -1,0 +1,11 @@
+{
+  "name": "clewas-url-guard",
+  "version": "0.0.1",
+  "description": "",
+  "main": "clewas.js",
+  "scripts": {
+    "test": "clewas nexis.js"
+  },
+  "author": "clewas",
+  "license": "ISC"
+}
